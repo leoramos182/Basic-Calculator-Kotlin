@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">BasicCalculatorKotlin</string>
+    <string name="app_name">Basic Grade Calculator | Kotlin</string>
+    <string name="nome_app">Nome App</string>
+    <string name="calculate">Calculate</string>
+    <string name="first_grade">First Grade</string>
+    <string name="second_grade">Second Grade</string>
 </resources>
